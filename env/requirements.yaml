@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: ng-golang-http-80-q13117-20190613-02
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
+  version: 0.0.2
 - name: ng-golang-http-80-q13117-20190613-03
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
